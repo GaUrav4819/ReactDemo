@@ -28,8 +28,6 @@ function App() {
         <Route path='edit/:id' element={<EditProduct/>}/>
       </Routes>
       </BrowserRouter>
-          
-     
     </>
   )
 }
