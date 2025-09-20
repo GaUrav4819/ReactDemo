@@ -15,6 +15,7 @@ function App() {
 
   return (
     <>
+    {/* React Routing */}
       <BrowserRouter>
       <Header/>
       <Routes>
