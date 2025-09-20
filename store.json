@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "productName": "Keybord123",
+      "description": "Wireless Keybord123",
+      "category": "Eletronics",
+      "price": "5000",
+      "quantity": 1000,
+      "supplier": "HP pvtLtd",
+      "inStock": false,
+      "id": "prod001"
+    },
+    {
+      "productName": "mobile",
+      "description": "128gb ram",
+      "category": "electronics",
+      "price": "89900",
+      "quantity": "100",
+      "supplier": "smasung",
+      "inStock": false,
+      "id": "0ed9"
+    }
+  ]
+}

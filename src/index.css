@@ -1,0 +1,15 @@
+.card{
+  width: 95% !important;
+  height:650px !important ;
+  box-shadow:10px 10px 5px 10px black ;
+  margin:20px;
+  padding: 10px;
+}
+.form-container{
+  align-self: center;
+  width:50% ;
+  display:flex;
+}
+label{
+  width: 400px;
+}
