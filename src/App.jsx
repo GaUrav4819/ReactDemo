@@ -15,6 +15,7 @@ function App() {
 
   return (
     <>
+    {/* React Routing */}
       <BrowserRouter>
       <Header/>
       <Routes>
@@ -28,8 +29,6 @@ function App() {
         <Route path='edit/:id' element={<EditProduct/>}/>
       </Routes>
       </BrowserRouter>
-          
-     
     </>
   )
 }
